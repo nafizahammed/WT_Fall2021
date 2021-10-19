@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="">
 </head>
 <body>
-        <h3>Registration Form</h3><hr>
+        <h3>Please fill up the form</h3><hr>
  
         <form action="Aiub.php" method="POST">
                 First Name: <input type="text" name="fname"><br> <br>
